@@ -68,8 +68,8 @@ The model is deployed as a web application where users can:
 - Enter weather parameters
 - Get instant rainfall prediction results
 
-🔗 **Deployed App:** *(Add your deployed link here)*  
-🔗 **GitHub Repository:** *(This repository)*
+🔗 **Deployed App:** (http://localhost:8501/) 
+🔗 **GitHub Repository:** (https://github.com/codewithbhavya-ml/Rainfall_prediction.git)
 
 ---
 
